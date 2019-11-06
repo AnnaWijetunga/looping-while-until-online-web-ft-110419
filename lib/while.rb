@@ -4,5 +4,6 @@ def using_while
   #your code here
 end
 
-#
-# puts out the phrase 'Wingardium Leviosa' while the levitation force is incremented to 10 (FAILED - 2)
+# using_while puts out the phrase 'Wingardium Leviosa' while the levitationforce is incremented to 10
+# fill out the conttent to that calling it will puts the desired phrase while lev force is < 10.
+# every time you puts the phrase, increment by 1 
