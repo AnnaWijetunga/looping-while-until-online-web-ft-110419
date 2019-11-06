@@ -4,4 +4,5 @@ def using_while
   #your code here
 end
 
-# expects using_until to output looping_string 
+#
+# puts out the phrase 'Wingardium Leviosa' while the levitation force is incremented to 10 (FAILED - 2)
