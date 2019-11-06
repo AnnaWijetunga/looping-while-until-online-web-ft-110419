@@ -4,3 +4,5 @@ def using_until
     
 end
 
+#puts phrase until our lev force equal 10 
+#Every time you puts the phrase, increment by 1
